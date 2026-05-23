@@ -11,7 +11,8 @@
       "Bash(./venv/Scripts/python.exe code/qformer.py)",
       "Bash(./venv/Scripts/python.exe code/projection.py)",
       "Bash(./venv/Scripts/python.exe code/language_decoder.py)",
-      "Bash(./venv/Scripts/python.exe code/model.py)"
+      "Bash(./venv/Scripts/python.exe code/model.py)",
+      "Bash(./venv/Scripts/python.exe code/train.py)"
     ]
   }
 }
