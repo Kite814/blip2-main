@@ -1,0 +1,47 @@
+{
+  "cli_version": "0.6.2",
+  "checkpoint_id": "434436a17245",
+  "session_id": "4b14d1d0-74d9-4ad1-9a6d-3ab51b3976b4",
+  "strategy": "manual-commit",
+  "created_at": "2026-05-23T14:33:05.4347564Z",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "code/model.py",
+    "code/train.py"
+  ],
+  "agent": "Claude Code",
+  "model": "deepseek-v4-pro[1m]",
+  "turn_id": "8af295434042",
+  "token_usage": {
+    "input_tokens": 99756,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 11611520,
+    "output_tokens": 57313,
+    "api_call_count": 138
+  },
+  "session_metrics": {
+    "turn_count": 29
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-05-23T14:33:05.4058758Z",
+    "agent_lines": 0,
+    "agent_removed": 0,
+    "human_added": 0,
+    "human_modified": 140,
+    "human_removed": 0,
+    "total_committed": 140,
+    "total_lines_changed": 140,
+    "agent_percentage": 0,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 2,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0
+    }
+  ]
+}
