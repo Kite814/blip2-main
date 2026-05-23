@@ -11,15 +11,12 @@ class ProjectionLayer(nn.Module):
 
     def __init__(self, hidden_size=768):
         super().__init__()
-        # TODO: 最简单的做法：一个 Linear(768 → 768)
-        # TODO: 稍复杂的做法：两层 MLP（Linear → GELU → Linear）
-        # 两种都可以，效果差异不大
+        # 一个 Linear(768 → 768)
+        self.projection = nn.Linear(hidden_size, hidden_size)
 
     def forward(self, query_output):
         # query_output: [B, num_queries, hidden_size]  -- from Q-Former
-        # TODO: 应用 projection
-        # 返回: [B, num_queries, hidden_size]
-        pass
+        return self.projection(query_output)
 
 
 if __name__ == "__main__":
