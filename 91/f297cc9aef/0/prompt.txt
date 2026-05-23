@@ -1,0 +1,45 @@
+读取项目要求，告知实现流程
+
+---
+
+创建虚拟环境，配置必要的依赖
+
+---
+
+填写gitignore以便提交；并且我已经下载了Flickr8k 前 200 张图片与 caption，检查数据是否对应且正确
+
+---
+
+填写gitignore以便提交；并且我已经下载了Flickr8k 前 200 张图片与 caption，检查数据是否对应且正确
+
+---
+
+现在step1已经完成了，检查
+
+---
+
+教我Step 2 搭建模型组件，但不要直接给出代码
+
+---
+
+怎么利用https://huggingface.co/openai/clip-vit-base-patch32编写vision_encoder.py
+
+---
+
+检查
+
+---
+
+讲解Q-Former
+
+---
+
+Qformer代码的框架
+
+---
+
+运行正确吗
+
+---
+
+讲解Projection Layer做什么，以及框架
