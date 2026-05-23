@@ -13,7 +13,16 @@
       "Bash(./venv/Scripts/python.exe code/language_decoder.py)",
       "Bash(./venv/Scripts/python.exe code/model.py)",
       "Bash(./venv/Scripts/python.exe code/train.py)",
-      "Bash(./venv/Scripts/python.exe code/generate.py)"
+      "Bash(./venv/Scripts/python.exe code/generate.py)",
+      "Bash(./venv/Scripts/python.exe)",
+      "Bash(entire --help)",
+      "Bash(entire login *)",
+      "Bash(entire session *)",
+      "Bash(entire auth *)",
+      "Bash(entire status *)",
+      "Bash(entire agent *)",
+      "Bash(entire enable *)",
+      "Bash(entire checkpoint *)"
     ]
   }
 }
