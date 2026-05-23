@@ -1,0 +1,13 @@
+# Mini-BLIP2 dependencies
+# Note: Uses PyTorch nightly for Blackwell (RTX 5060) support
+# Install: pip install -r requirements.txt
+
+torch>=2.7.0  # nightly cu128 required for RTX 5060 (Blackwell sm_120)
+torchvision>=0.21.0
+transformers>=4.30.0
+pillow>=9.0.0
+tqdm>=4.60.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+kagglehub>=0.1.0
+pandas>=2.0.0
