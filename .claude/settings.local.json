@@ -5,7 +5,9 @@
       "Bash(python -m venv venv)",
       "Bash(./venv/Scripts/python.exe -m pip install --upgrade pip)",
       "Bash(./venv/Scripts/pip.exe install *)",
-      "Bash(./venv/Scripts/python.exe -c ' *)"
+      "Bash(./venv/Scripts/python.exe -c ' *)",
+      "Bash(./venv/Scripts/python.exe GetData.py)",
+      "Bash(./venv/Scripts/python.exe code/vision_encoder.py)"
     ]
   }
 }
