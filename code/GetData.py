@@ -17,7 +17,7 @@ KAGGLEHUB_CACHE = os.path.join(
     os.path.expanduser("~"), ".cache", "kagglehub",
     "datasets", "adityajn105", "flickr8k", "versions", "1"
 )
-LOCAL_DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+LOCAL_DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
 NUM_IMAGES = 200
 
 
