@@ -21,3 +21,7 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Training outputs (large files)
+checkpoint.pth
+loss_curve.png
