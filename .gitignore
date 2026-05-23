@@ -24,4 +24,4 @@ Thumbs.db
 
 # Training outputs (large files)
 checkpoint.pth
-loss_curve.png
+
