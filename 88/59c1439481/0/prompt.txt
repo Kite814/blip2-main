@@ -1,0 +1,14 @@
+检查
+
+---
+
+讲解，网站https://huggingface.co/facebook/opt-125m
+
+---
+
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!是什么问题怎么解决
+
+---
+
+测试
