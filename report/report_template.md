@@ -117,7 +117,7 @@ Image → Frozen Vision Encoder → Mini Q-Former → Projection Layer → Froze
 请填写本次复现过程中与 AI 工具的对话记录（对应 requirements.md 第 9.1 节）。
 
 - 录制工具：entire.io
-- 对话链接：
+- 对话链接：[Sessions · Kite814/blip2-main · Entire](https://entire.io/gh/Kite814/blip2-main/sessions)
 - 使用的 AI 模型： Claude code+deepseekv4 pro
 - 累计对话时长 / 会话数：约 6-8 小时，2-3 次会话
 

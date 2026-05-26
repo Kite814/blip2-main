@@ -47,3 +47,29 @@ epoch调为15
 ---
 
 git push失败
+
+---
+
+No checkpoints found
+Install the Entire CLI and checkpoints will appear here automatically as you push code.
+
+1
+Install the CLI
+
+
+curl
+curl -fsSL https://entire.io/install.sh | bash
+
+2
+Enable in this repo
+
+entire enable
+
+3
+Code and push
+
+Agent sessions are captured automatically and linked to your commits.entire.io还是检测不到会话
+
+---
+
+能看到blip2-main仓库但是没有session
